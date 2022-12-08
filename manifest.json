@@ -1,0 +1,6 @@
+{
+"name": "Bus Tracker",
+"short_name": "Bus Tracker",
+"start_url": "/",
+"display": "standalone"
+}
